@@ -7,5 +7,5 @@ flowchart TD;
     A-->C;
     B-->D;
     C-->D;
-    click A "https://github.com/mikeclymer/physics-undergrad/blob/main/test.md" _self
+    click A "https://github.com/mikeclymer/physics-undergrad/blob/main/test.md" _parent
 ```
