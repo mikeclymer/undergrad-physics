@@ -7,5 +7,5 @@ flowchart TD;
     A-->C;
     B-->D;
     C-->D;
-    click A README.md
+    click A "/README.md" "Go to README"
 ```
