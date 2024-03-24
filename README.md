@@ -1,9 +1,9 @@
 # Undergraduate Physics
 
-This project encapsulates the high-level undergraduate physics program being followed in my learning journey. 
+This project encapsulates the undergraduate physics program being followed in my learning journey. 
 > [!NOTE]
-> The vast majority of the curriculum comes from Susan Rigetti's excellent guide - [So You Want to Learn Physics…
-SECOND EDITION](https://www.susanrigetti.com/physics).
+> The vast majority of the curriculum comes from Susan Rigetti's excellent guide - [So You Want to Learn Physics …
+SECOND EDITION](https://www.susanrigetti.com/physics)
 >
 > Additional resources from other guides will be added as needed.
 
